@@ -1,0 +1,16 @@
+td select, td input {
+    width:100%;
+}
+td select{
+    text-align: center;
+}
+td input[type="radio"] {
+    width: auto;
+    margin-left: 0px;
+}
+.osoke{
+    display: flex;
+}
+.w-20{
+    width: 20% !important;
+}

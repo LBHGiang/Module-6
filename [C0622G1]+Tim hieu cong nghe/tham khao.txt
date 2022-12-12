@@ -1,0 +1,8 @@
+https://www.baeldung.com/spring-data-jpa-projections
+
+
+https://viblo.asia/p/ban-da-nghe-ve-projection-trong-spring-boot-chua-GrLZD1dwlk0
+
+<T> List<T> findBy(Class<T> classType);
+
+bookRepository.findBy(BookSlim.class);

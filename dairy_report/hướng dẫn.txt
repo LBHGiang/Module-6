@@ -1,0 +1,25 @@
+ Daily Report:
+
+- Template:
+
+Như ở file đính kèm, phần report sẽ copy dán vào mail như hướng dẫn. Chứ không phải đính kèm file.
+
+- Subject:
+
+[C0622G1]_Daily Report_GiangLBH_08/12/2022
+
+- To:
+
+trung.dang@codegym.vn
+ 
+
+- Cc:
+
+tien.nguyen@codegym.vn, tam.tran@codegym.vn, trung.doan@codegym.vn
+
+
+Deadline: 16h45 - 17h15 hàng ngày
+
+Dear all!
+Em gửi Daily Report ngày Daily 08/12/2022.
+
